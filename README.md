@@ -6,4 +6,4 @@ An Offical Website to An Company
 
 an clear gif which is simple seems
 
-![](screen.gif)
+![](chrome-capture-2022-10-15.gif)
