@@ -4,6 +4,4 @@ An Offical Website to An Company
 
 <h2> Here you can see gif </h2>
 
-an clear gif which is simple seems
-
-![](chrome-capture-2022-10-15.gif)
+an clear gif which is simple
